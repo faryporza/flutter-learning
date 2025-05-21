@@ -22,11 +22,11 @@
 
 1. โคลนที่เก็บนี้:
    ```
-   git clone https://github.com/yourusername/flutter-winter-app.git
+   git clone https://github.com/yourusername/flutter-winter-app.git](https://github.com/faryporza/flutter-learning.git
    ```
 2. นำทางไปยังไดเร็กทอรีโปรเจกต์:
    ```
-   cd flutter-winter-app
+   cd flutter-learning
    ```
 3. ติดตั้งการพึ่งพา:
    ```
