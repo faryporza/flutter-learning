@@ -22,7 +22,7 @@
 
 1. โคลนที่เก็บนี้:
    ```
-   git clone https://github.com/yourusername/flutter-winter-app.git](https://github.com/faryporza/flutter-learning.git
+   git clone https://github.com/faryporza/flutter-learning.git
    ```
 2. นำทางไปยังไดเร็กทอรีโปรเจกต์:
    ```
